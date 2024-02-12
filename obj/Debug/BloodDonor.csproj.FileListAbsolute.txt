@@ -1,0 +1,177 @@
+F:\Blooddonar\BloodDonor\BloodDonor\bin\BloodDonor.dll.config
+F:\Blooddonar\BloodDonor\BloodDonor\bin\BloodDonor.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\BloodDonor.pdb
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\csc.exe
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\csc.exe.config
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\csc.rsp
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\csi.exe
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\csi.exe.config
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\csi.rsp
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.AppContext.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Collections.Immutable.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Console.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Globalization.Calendars.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.IO.Compression.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.IO.FileSystem.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Net.Http.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Net.Sockets.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Reflection.Metadata.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.ValueTuple.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Xml.XPath.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\vbc.exe
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\vbc.exe.config
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\vbc.rsp
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\VBCSCompiler.exe
+F:\Blooddonar\BloodDonor\BloodDonor\bin\roslyn\VBCSCompiler.exe.config
+F:\Blooddonar\BloodDonor\BloodDonor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Blooddonar\BloodDonor\BloodDonor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Blooddonar\BloodDonor\BloodDonor\obj\Debug\BloodDonor.csproj.AssemblyReference.cache
+F:\Blooddonar\BloodDonor\BloodDonor\obj\Debug\BloodDonor.csproj.CoreCompileInputs.cache
+F:\Blooddonar\BloodDonor\BloodDonor\obj\Debug\BloodDonor.csproj.CopyComplete
+F:\Blooddonar\BloodDonor\BloodDonor\obj\Debug\BloodDonor.dll
+F:\Blooddonar\BloodDonor\BloodDonor\obj\Debug\BloodDonor.pdb
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\BloodDonor.dll.config
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\BloodDonor.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\BloodDonor.pdb
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csc.exe
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csc.exe.config
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csc.rsp
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csi.exe
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csi.exe.config
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csi.rsp
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.AppContext.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Console.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.IO.Compression.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Net.Http.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.ValueTuple.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\vbc.exe
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\vbc.exe.config
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\vbc.rsp
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\VBCSCompiler.exe
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.csproj.AssemblyReference.cache
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.csproj.CoreCompileInputs.cache
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.csproj.CopyComplete
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.dll
+C:\Users\gaurav\Downloads\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.pdb
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\BloodDonor.dll.config
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\BloodDonor.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\BloodDonor.pdb
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csc.exe
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csc.exe.config
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csc.rsp
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csi.exe
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csi.exe.config
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\csi.rsp
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.AppContext.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Collections.Immutable.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Console.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Globalization.Calendars.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.IO.Compression.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.IO.FileSystem.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Net.Http.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Net.Sockets.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Reflection.Metadata.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.ValueTuple.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Xml.XPath.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\vbc.exe
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\vbc.exe.config
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\vbc.rsp
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\VBCSCompiler.exe
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\roslyn\VBCSCompiler.exe.config
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.csproj.AssemblyReference.cache
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.csproj.CoreCompileInputs.cache
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.csproj.CopyComplete
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.dll
+E:\BloodDonor - Copy (1)\BloodDonor - Copy\BloodDonor\obj\Debug\BloodDonor.pdb
